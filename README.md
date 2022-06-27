@@ -1,5 +1,8 @@
 # Simple-Weather-App
-# A simple weather App builded by : 
+
+- A simple responsive smooth weather webApp
+
+#builded by : 
 
 - HTML 5.0
 - CSS 3.0

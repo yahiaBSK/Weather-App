@@ -5,3 +5,5 @@ A simple weather App builded by :
 - CSS 3.0
 - JAVASCRIPT ES6
 - API
+
+You can try it here: 

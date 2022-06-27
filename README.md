@@ -2,7 +2,7 @@
 
 - A simple responsive smooth weather webApp
 
-#builded by : 
+# builded by : 
 
 - HTML 5.0
 - CSS 3.0

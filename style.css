@@ -155,8 +155,8 @@ body{
 	text-align: start;
 }
 .degree #country-png{
-	max-width: 23px;
-	max-height: 23px;
+	width: 21.5px;
+	height: 21.5px;
 	margin: 5px;
 	box-shadow: 0 0 0 2px rgba(255,255,255,0.20);
 	border-radius: 100px;

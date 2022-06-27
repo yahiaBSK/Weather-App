@@ -10,4 +10,4 @@
 - API
 
 # You can try it here: 
-- https://yahiabsk.github.io/Simple-Weather-App/
+- https://yahiabsk.github.io/Weather-App/
